@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuachNgoc
-- 👀 I’m interested in Game, and Programming Language
+- 👀 I’m interested in Games, and Programming Languages
 - 🌱 I’m currently learning C++, C#, Python
 - 📫 How to reach me quachbaongoc02@gmail.com
 
