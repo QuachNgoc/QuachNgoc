@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuachNgoc
 - 👀 I’m interested in Games, and Programming Languages
-- 🌱 I’m currently learning C++, C#, Python
+- 🌱 I’m currently learning C++, Python, HTML, CSS.
 - 📫 How to reach me quachbaongoc02@gmail.com
 
 <!---
